@@ -1,1 +1,1 @@
-# Django_-CRUD
+# Django_CRUD
